@@ -784,7 +784,7 @@ export default function HomePage() {
                 <div>
                   <div className="font-bold text-white">🏢 Guild HQ</div>
                   <div className="text-green-400 font-mono">
-                    Ring Road , <Bhavanagar></Bhavanagar>
+                    Ring Road , Bhavanagar
                   </div>
                 </div>
               </div>
