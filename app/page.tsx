@@ -1059,8 +1059,7 @@ export default function HomePage() {
 
           <div className="border-t-2 border-gray-800 mt-8 pt-8 text-center text-gray-400">
             <p className="font-mono text-sm">
-              &copy; 2024 01 STUDIO. All rights reserved. Crafted with 💜 for
-              the gaming community!
+              &copy; 2025 01 STUDIO. All rights reserved.
             </p>
           </div>
         </div>
